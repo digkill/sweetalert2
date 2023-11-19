@@ -1,7 +1,7 @@
 {
   "name": "sweetalert2-without-hohol",
   "version": "11.10.0",
-  "repository": "sweetalert2/sweetalert2",
+  "repository": "digkill/sweetalert2-without-hohol",
   "homepage": "https://github.com/digkill",
   "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert. Version does not contain \"hohol\" - verified",
   "main": "dist/sweetalert2.all.js",

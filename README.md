@@ -9,6 +9,6 @@ Version does not contain "hohol" - verified
 
 ```json
 "dependencies": {
-  "sweetalert2-without-hohol": "digkill/sweetalert2-without-hohol"
+  "sweetalert2": "digkill/sweetalert2-without-hohol",
 }
 ```
