@@ -1,32 +1,22 @@
-<a href="https://sweetalert2.github.io/">
-  <img src="./assets/swal2-logo.png" width="498" alt="SweetAlert2">
-</a>
+# Sponsors
 
-A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement <br> for JavaScript's popup boxes. Zero dependencies.
+Sponsor is a company or a person who is supporting SweetAlert2 with $19 per month [via GitHub Sponsors](https://github.com/sponsors/limonte) or [via PayPal](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=UW5EA4KTHM4B6). Sponsors are listed in these places:
 
----
+- in [SweetAlert2's official homepage](https://sweetalert2.github.io/#sponsors) (100K+ unique visitors per month).
+- in [the official repo README](https://github.com/sweetalert2/sweetalert2#sponsors) (20K+ unique visitors per month)
+- on [npmjs.com](https://www.npmjs.com/package/sweetalert2)
+- in this document
 
-### [Installation](https://sweetalert2.github.io/#download) | [Usage](https://sweetalert2.github.io/#usage) | [Examples](https://sweetalert2.github.io/#examples) | [Recipe gallery](https://sweetalert2.github.io/recipe-gallery/) | [Themes](https://github.com/sweetalert2/sweetalert2-themes) | [React](https://github.com/sweetalert2/sweetalert2-react-content) | [Angular](https://github.com/sweetalert2/ngx-sweetalert2)
+All sponsors have priority support via GitHub issues.
 
----
+For all questions related to sponsorship please contact me via email sweetalert2@gmail.com
 
-:moneybag: [Get $200 in free credits with DigitalOcean!](https://m.do.co/c/12907f2ba0bf)
+# How to become a sponsor
 
----
+1. Set up the $19 per month sponsorship [via GitHub Sponsors](https://github.com/sponsors/limonte) or [via PayPal](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=UW5EA4KTHM4B6)
+2. Send your logo and link to sweetalert2@gmail.com and I will publish it in the same day
 
-Important notice about the usage of this software for `.ru`, `.su`, `.by`, and `.рф` domain zones
---------------------------------------------------------------------------------------
-
-As a consequence of the illegal war in Ukraine, the behavior of this repository and related npm package [sweetalert2](https://www.npmjs.com/package/sweetalert2) is different for `.ru`, `.su`, `.by`, and `.рф` domain zones.
-
-Including this software in any domain in `.ru`, `.su`, `.by`, and `.рф` domain zones will block the website navigation and play the national anthem of Ukraine.
-
-This behavior is classified as [protestware](https://snyk.io/blog/protestware-open-source-types-impact/) and this project is listed in [GitHub Advisory Database](https://github.com/advisories/GHSA-mrr8-v49w-3333) and [Snyk Vulnerability DB](https://security.snyk.io/package/npm/sweetalert2/11.5.2).
-
-Sponsors
---------
-
-For all questions related to sponsorship please get in touch with me via email sweetalert2@gmail.com
+# Our Sponsors
 
 <table>
 <tr>
@@ -130,8 +120,3 @@ NSFW Sponsors
 <td align="center"><a href="https://www.bsdoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/bsdoll.jpg" width="80"><br>BSDoll</a></td>
 </tr>
 </table>
-
-Support and Donations
----------------------
-
-Has SweetAlert2 helped you create a fantastic application? You can show your support via [GitHub Sponsors](https://github.com/sponsors/limonte)

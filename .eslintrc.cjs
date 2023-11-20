@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['plugin:no-unsanitized/DOM', 'plugin:jsdoc/recommended'],
+  extends: ['@sweetalert2/eslint-config', 'plugin:no-unsanitized/DOM', 'plugin:jsdoc/recommended'],
   plugins: ['jsdoc'],
   rules: {
     '@typescript-eslint/ban-ts-comment': 0,
