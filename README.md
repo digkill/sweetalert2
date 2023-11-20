@@ -8,7 +8,5 @@ Version does not contain "hohol" - verified
 ##### Install package.json
 
 ```json
-"dependencies": {
-  "sweetalert2": "digkill/sweetalert2-without-hohol",
-}
+
 ```
