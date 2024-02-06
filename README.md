@@ -1,14 +1,7 @@
 A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement <br> for JavaScript's popup boxes. Zero
 dependencies.
 
-+1 burning ass 😉
-
-The developer turned out to be a scumbag, so he introduced malware against Russia, and the pissing Github supports it. Version without the Khokhlyat stench
-
-<img src="./assets/without-hohol.png" width="498" alt="SweetAlert2">
-
-Version does not contain "hohol" - verified
-
+The developer turned out to be an asshole and introduced malicious software in the original. In this version I have cut out the malware.
 ##### Install package.json
 
 ```json
